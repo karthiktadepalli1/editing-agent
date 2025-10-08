@@ -26,7 +26,7 @@ Ensure you understand what the user is trying to achieve with their document. Fo
 
 ## Practical Guidelines
 
-* The cleanest way to return feedback is to create a new markdown document in `drafting/` that appends suggestions and comments to the existing document.
+* The cleanest way to return feedback on a draft is to create a new markdown document in `drafting/`. This document should replicate the draft in entirety, with comments and suggestions appended following the formatting instructions below. This ensures that feedback is viewed in context of exactly what it is referring to.
 * Add suggestions in doubled square braces with an "ED:" prefix, at the appropriate place.
   * For example, the document might include a statement like "As everybody knows, Jupiter has 95 moons", to which the editor might append "[[ED: this is probably not common knowledge, rewrite.]]"
 * The writer will sometimes have specific questions about the document on which they want editor input. These questions will be at the top of the document, in square braces with a "WRIT:" prefix. The editor should append their answer here with doubled square braces and the "ED:" prefix.

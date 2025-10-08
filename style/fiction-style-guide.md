@@ -4,9 +4,7 @@ This document provides style instructions for when the user wants to write ficti
 
 ## Philosophy
 
-This user believes a short story is always the telling of two stories. Story 1 is the foreground story: the literal events that are said to take place, between the chosen characters, in the chosen setting. Story 2 is the background story: the story that is conveyed in secret, through tension and release, through implication and rhyme. 
-
-The bones of Story 1 are characters, events, locations. These elements should interact in a way that creates energy and carries Story 1 forward. The bones of Story 2 are ideas, emotions, worldviews. The game is to 
+This user believes a short story is always the telling of two stories. Story 1 is the foreground story: the literal events that are said to take place, between the chosen characters, in the chosen setting. Story 2 is the background story: the story that is conveyed in secret, through tension and release, through implication and rhyme. The bones of Story 1 are characters, events, locations. These elements should interact in a way that creates energy and carries Story 1 forward. The bones of Story 2 are ideas, emotions, worldviews. The game is to tell Story 2 using only the elements of Story 1. This is also known as "show, don't tell".
 
 Short fiction is a cutthroat medium in which every paragraph and every detail has to fight for its existence and essence. Why is a character endowed with these traits and not others? Why is the action happening in this setting and not in another? Why is the story focused on this character, or on this moment in this character's life? 
 

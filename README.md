@@ -13,4 +13,4 @@ See `CLAUDE.md` for the conventions I use to have the LLM give feedback. In gene
 
 ## Warning
 
-The instructions in `CLAUDE.md`, `style/fiction-style-guide.md` and `style/nonfiction-style-guide.md` reflect my idiosyncratic beliefs about good writing. If you clone this setup, you should probably edit these documents substantially to reflect your idiosyncratic beliefs. 
+The instructions in `CLAUDE.md`, `style/fiction-style-guide.md` and `style/nonfiction-style-guide.md` reflect my idiosyncratic beliefs about good writing and helpful LLM inputs on writing. If you clone this setup, you should probably edit these documents substantially to reflect your idiosyncratic beliefs. 
